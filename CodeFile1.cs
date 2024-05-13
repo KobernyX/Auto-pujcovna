@@ -1,0 +1,4 @@
+﻿enum StavAuta
+{
+    Zabrany, Volny
+}
